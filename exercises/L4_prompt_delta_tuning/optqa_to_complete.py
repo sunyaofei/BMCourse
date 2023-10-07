@@ -1,8 +1,3 @@
-
-
-
-
-
 import opendelta
 import argparse
 import os

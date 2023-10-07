@@ -1,11 +1,5 @@
-
-
-
-
 SCALE="2.7b" # select from 125m, 350m, 1.3b, 2.7b;  6.7b and 30b is too big for single 3090. See in https://huggingface.co/models?sort=downloads&search=opt
 MODEL_PATH="./plm_cache"
-
-
 
 mkdir $MODEL_PATH
 cd $MODEL_PATH

@@ -1,4 +1,5 @@
 # L3 Transformers
+> https://colab.research.google.com/drive/1JD6_MsH7tphGPL1D0Z0et4YBjNYeWd7H#scrollTo=OexQ2S10dAEu
 
 TA have already shown how to use 🤗 [Transformers](https://github.com/huggingface/transformers) in the lecture. However, you can't really learn how to use 🤗 Transformers just by watching the TA demonstrate the code. You need to actually get your hands dirty with 🤗 Transformers! 
 

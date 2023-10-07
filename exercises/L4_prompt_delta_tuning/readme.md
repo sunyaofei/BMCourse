@@ -1,5 +1,7 @@
 
 ## Using OpenPrompt and OpenDelta on Big Models.
+> https://github.com/thunlp/OpenPrompt
+
 
 In this homework, we will show you how to use an OPT-2.7b (2.7 billion parameters) for direct question answering on a single 3090 GPU.
 
